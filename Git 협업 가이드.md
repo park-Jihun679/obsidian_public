@@ -13,10 +13,10 @@ style - 디자인 관련 수정
 ```
 
 ## 2. 브랜치 생성
-![[image1.png]]
+![브랜치 생성 화면](./images/image1.png)
 이슈 화면에서 Create a branch 버튼 클릭 → feature/(이슈 코드)-(이슈 내용) 형태로 이름 작성 → Branch source를 develop 로 선택 → Create branch
 
-![[image2.png|Create branch 클릭하면 뜨는 창]]
+![Create branch 클릭하면 뜨는 창](./images/image2.png)
 Create branch 클릭하면 뜨는 창
 
 → 복사 후 명령어 입력
